@@ -6,10 +6,9 @@
 
 ### Opening the website: https://tutorialsninja.com/demo/
 
-
 ### Select 2 iPhones
 
-### Tkae 1 screenshot
+### Take 1 screenshot
 
 ### Select 1 Laptop(HP LP3065)
 
