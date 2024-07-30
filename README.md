@@ -1,10 +1,10 @@
 # E-commerce-Website-Automation
 
-## This website involces automating various functionalities of an e-commerce site, including user registration, login, product search, adding items to the cart, and checkout processes. 
+## This project involces automating various functionalities of an e-commerce site, including product search, adding items to the cart, and checkout processes. 
 
 ## The key requirements include:
 
-### Opening the website: https://tutorialsninja.com/demo/
+### Opening the E-commerce website
 
 ### Select 2 iPhones
 
