@@ -1,6 +1,6 @@
 # E-commerce-Website-Automation
 
-## This project involces automating various functionalities of an e-commerce site, including product search, adding items to the cart, and checkout processes. 
+## This project involves automating various functionalities of an e-commerce site, including product search, adding items to the cart, and checkout processes. 
 
 ## The key requirements include:
 
